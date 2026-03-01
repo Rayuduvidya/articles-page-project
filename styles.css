@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+#sectionHomePage {
+    background-color: #225db0;
+    background-size: cover;
+    padding: 20px;
+    height: 100vh;
+}
+
+.mainheading {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "roboto";
+    font-weight: 700;
+}
+
+.paragraph {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "roboto";
+}
+
+.card {
+    text-align: center;
+    height: 12vh;
+    width: 30vw;
+    margin: 10px;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+.image {
+    padding: 5px;
+    height: 50px;
+    width: 50px;
+}
+
+.card-paragraph {
+    color: black;
+    font-size: 15px;
+    font-family: "roboto";
+}
+
+#sectiontechnology {
+    background-color: #225db0;
+    background-size: cover;
+    padding: 15px;
+    height: 100vh;
+    text-align: center;
+}
+
+#sectionscience {
+    background-color: #225db0;
+    background-size: cover;
+    padding: 15px;
+    height: 100vh;
+    text-align: center;
+}
+
+#sectionhealthcare {
+    background-color: #225db0;
+    background-size: cover;
+    padding: 15px;
+    height: 100vh;
+    text-align: center;
+}
+
+#sectionbusiness {
+    background-color: #225db0;
+    background-size: cover;
+    padding: 15px;
+    height: 100vh;
+    text-align: center;
+}
+
+.btn {
+
+    background-color: #225db0;
+    border-color: #ffffff;
+    border-width: 2px;
+    color: #ffffff;
+}
+
+.unorderd-list {
+    text-align: left;
+    color: #ffffff;
+    font-size: 15px;
+}
